@@ -1,0 +1,89 @@
+Id,Story,Labels,Iteration,Iteration Start,Iteration End,Story Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Owned By,Description,URL,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status
+42590809,Project Requirements,research,1,"Jan 30, 2013","Feb 5, 2013",chore,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Read all documentation provided for the project and get a firm understanding of what is expected of you.,http://www.pivotaltracker.com/story/show/42590809
+42590579,Visual Frameworks,research,1,"Jan 30, 2013","Feb 5, 2013",chore,,unstarted,"Jan 15, 2013",,,Christopher Chapman,Christopher Chapman,"Determine which visual framework you intent to use for the duration of the project.
+
+Make certain to experiment and play around with multiple frameworks until you find one that suits your needs. 
+
+Get a working knowledge with the code you may be working with so that you choose one that is flexible enough to fit your project.",http://www.pivotaltracker.com/story/show/42590579,Identify Popular Frameworks,not completed,Identify New and Trending Frameworks,not completed,Explore the Code,not completed,Experiment!,not completed,"Choose your Framework, submit to FSO",not completed
+42595125,[1.1] ,"",1,"Jan 30, 2013","Feb 5, 2013",release,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Submit the tasks listed below to FSO.,http://www.pivotaltracker.com/story/show/42595125,Pivotal Link,not completed,Github Link,not completed,Selected Archetype,not completed,Selected API,not completed
+42591011,API,research,1,"Jan 30, 2013","Feb 5, 2013",chore,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Determine what APIs you intend to use and on a higher level how you want to leverage them.,http://www.pivotaltracker.com/story/show/42591011
+42589573,Base File Structure (MVC),setup,1,"Jan 30, 2013","Feb 5, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Create the primary file structure.,http://www.pivotaltracker.com/story/show/42589573,Models,not completed,Views,not completed,Controllers,not completed,Assets,not completed,Libraries,not completed
+42590109,Chosen Visual Framework,setup,1,"Jan 30, 2013","Feb 5, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"Setup the base libraries and visual frameworks you intend to use. (Bootstrap, JQuery Mobile, etc.)",http://www.pivotaltracker.com/story/show/42590109
+42592487,API Proof of Concept,setup,1,"Jan 30, 2013","Feb 5, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Implement a simple version of your chosen API. This be a stand alone page in your project that pulls the API's desired information.,http://www.pivotaltracker.com/story/show/42592487
+42592651,Database,setup,1,"Jan 30, 2013","Feb 5, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Create a simple one table database for the purpose of building upon it later. This is so that we can tie it into our project and know that the connection is working properly.,http://www.pivotaltracker.com/story/show/42592651
+42592947,Database Table Structure,setup,1,"Jan 30, 2013","Feb 5, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Add to the Database the basic tables and structure you anticipate for this project. You will likely refine these later so don't worry about getting them precisely perfect just yet.,http://www.pivotaltracker.com/story/show/42592947
+42589605,[1.2] Initialization Iteration,"",1,"Jan 30, 2013","Feb 5, 2013",release,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42589605
+42594753,Style Tiles (Guide),"design, research",1,"Jan 30, 2013","Feb 5, 2013",feature,3,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"This style guide will set the tone for all views. If / when later on in the project a new view is needed to be created you can reuse predesigned elements to achieve the desired look for the view without having to go through the wireframe process, speeding your development time.
+
+Please use the resources linked below for further explanation. These assets you create should be placed into an ASSETS folder in your Github Repo.
+
+http://styletil.es/",http://www.pivotaltracker.com/story/show/42594753
+42594351,Signup Page Style Tile,design,1,"Jan 30, 2013","Feb 5, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Create a Style Tile to define the look of this page.,http://www.pivotaltracker.com/story/show/42594351
+42596885,Listing Page Style Tile,design,1,"Jan 30, 2013","Feb 5, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Create a Style Tile to define the look of this page.,http://www.pivotaltracker.com/story/show/42596885
+42596957,Detail Page Style Tile,design,1,"Jan 30, 2013","Feb 5, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Create a Style Tile to define the look of this page.,http://www.pivotaltracker.com/story/show/42596957
+42598049,Visual Framework utilizing Style Guide ,implement,1,"Jan 30, 2013","Feb 5, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"Enhance your chosen visual framework to incorporate the elements defined in your Style Tiles.
+
+Identify the unique elements from your Style Tiles and develop the markup to create those items as needed through your views.",http://www.pivotaltracker.com/story/show/42598049
+43012235,Responsive enhancement of Visual Framework,mobile feature,1,"Jan 30, 2013","Feb 5, 2013",feature,2,unstarted,"Jan 22, 2013",,,Christopher Chapman,,Adapt your Visual Framework to be responsive. This will require the addition of media queries to create break points that reorganize elements on the page to more adequately utilize the available space.,http://www.pivotaltracker.com/story/show/43012235
+42598555,Weekly Self Audit,iteration,1,"Jan 30, 2013","Feb 5, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"Review your code, designs, and other materials created to ensure they are commented, well formatted, and developed to a a standard that represents your personal best work. 
+
+You will be handing off your project to other developers for review and you should be confident that your work will stand up to their scrutiny in addition to the rubric.",http://www.pivotaltracker.com/story/show/42598555
+42594021,[2.1] Pivotal Tracker Velocity Review,"",1,"Jan 30, 2013","Feb 5, 2013",release,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42594021
+42595479,Peer Review,iteration,2,"Feb 6, 2013","Feb 12, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"Full Description of the Peer Review Process
+
+https://docs.google.com/document/d/1FvTSXVRmJD_TdatutzI4NfvlgItXy1nQUQCcEALLCY0/edit?usp=sharing",http://www.pivotaltracker.com/story/show/42595479
+42594611,View for Signup Page,implement,2,"Feb 6, 2013","Feb 12, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42594611
+42596915,View for Listing Page,implement,2,"Feb 6, 2013","Feb 12, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42596915
+42596993,View for Detail Page,implement,2,"Feb 6, 2013","Feb 12, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42596993
+42594183,[2.2] Epic Progress,"",2,"Feb 6, 2013","Feb 12, 2013",release,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42594183
+42609261, [CRUD],"archetype, content",2,"Feb 6, 2013","Feb 12, 2013",feature,3,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"In a crowdsourced site or service the main focus of the site is generated by the users. Pictures, video, text, or other content, depending on the focus of your specific site need to CRUD as well.",http://www.pivotaltracker.com/story/show/42609261
+42607379,[CRUD],"archetype, user system",2,"Feb 6, 2013","Feb 12, 2013",feature,3,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Develop the base CRUD functionality for your project.,http://www.pivotaltracker.com/story/show/42607379
+43009585,Authentication,"archetype, user system",2,"Feb 6, 2013","Feb 12, 2013",feature,1,unstarted,"Jan 22, 2013",,,Christopher Chapman,,Local Storage is a great way to handle long term logins for users.,http://www.pivotaltracker.com/story/show/43009585,login,not completed,logout,not completed
+42588479,Users should be able to positively signal a piece of content.,"archetype, content",2,"Feb 6, 2013","Feb 12, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42588479
+42588465,User should be able to easily report misuse of site.,"archetype, content",2,"Feb 6, 2013","Feb 12, 2013",feature,1,unstarted,"Jan 15, 2013",,,Rachel Higley,,,http://www.pivotaltracker.com/story/show/42588465
+43009683,Restricting Functionality and Access to Sensitive Areas and Features.,"archetype, user system",2,"Feb 6, 2013","Feb 12, 2013",feature,2,unstarted,"Jan 22, 2013",,,Christopher Chapman,,Making certain a user is logged in to preform certain actions.,http://www.pivotaltracker.com/story/show/43009683
+42588153,Users can subscribe to other user's content feeds.,"archetype, user profile",2,"Feb 6, 2013","Feb 12, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42588153
+42598579,Weekly Self Audit,"",2,"Feb 6, 2013","Feb 12, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"Review your code, designs, and other materials created to ensure they are commented, well formatted, and developed to a a standard that represents your personal best work. 
+
+You will be handing off your project to other developers for review and you should be confident that your work will stand up to their, as well as, the project rubric's scrutiny.",http://www.pivotaltracker.com/story/show/42598579
+42594035,[3.1] Pivotal Tracker Velocity Review,"",2,"Feb 6, 2013","Feb 12, 2013",release,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42594035
+42595833,Peer Review,iteration,3,"Feb 13, 2013","Feb 19, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"Full Description of the Peer Review Process
+
+https://docs.google.com/document/d/1FvTSXVRmJD_TdatutzI4NfvlgItXy1nQUQCcEALLCY0/edit?usp=sharing",http://www.pivotaltracker.com/story/show/42595833
+43014061,Style guide for User Profile,"archetype, implement",3,"Feb 13, 2013","Feb 19, 2013",feature,2,unstarted,"Jan 22, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/43014061
+42588189,Users can create public profiles for themselves.,"archetype, user profile",3,"Feb 13, 2013","Feb 19, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42588189,Picture,not completed,Name,not completed,Bio,not completed,Birthdate,not completed,Location (Geolocation),not completed
+42588579,Users should be able to find contact information for support.,base feature,3,"Feb 13, 2013","Feb 19, 2013",feature,1,unstarted,"Jan 15, 2013",,,Rachel Higley,,,http://www.pivotaltracker.com/story/show/42588579
+42595277,[3.2],"",3,"Feb 13, 2013","Feb 19, 2013",release,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42595277
+42997103,Error Handling,base feature,3,"Feb 13, 2013","Feb 19, 2013",feature,2,unstarted,"Jan 22, 2013",,,Christopher Chapman,,How errors are displayed to users and logged for admin review.,http://www.pivotaltracker.com/story/show/42997103
+42588357,"Dashboards should be populated with New, Popular, and Followed Content.","archetype, content discovery",3,"Feb 13, 2013","Feb 19, 2013",feature,3,unstarted,"Jan 15, 2013",,,Christopher Chapman,,Home pages are great for displaying popular or fresh content that a user has yet to discover.,http://www.pivotaltracker.com/story/show/42588357,New,not completed,Popular,not completed,Followed,not completed
+43013009,Full Site Switcher,mobile feature,3,"Feb 13, 2013","Feb 19, 2013",feature,1,unstarted,"Jan 22, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/43013009
+42588635,Users should be able to subscribe to newsletter.,base feature,3,"Feb 13, 2013","Feb 19, 2013",feature,1,unstarted,"Jan 15, 2013",,,Rachel Higley,,,http://www.pivotaltracker.com/story/show/42588635
+42588665,Users should be able to find help in documentation.,base feature,3,"Feb 13, 2013","Feb 19, 2013",feature,2,unstarted,"Jan 15, 2013",,,Rachel Higley,,At minimum a FAQ section,http://www.pivotaltracker.com/story/show/42588665
+42588647,Users should be able to find and read terms and policies.,base feature,3,"Feb 13, 2013","Feb 19, 2013",feature,1,unstarted,"Jan 15, 2013",,,Rachel Higley,,Find a boilerplate Terms and Services agreement and modify it to your needs.,http://www.pivotaltracker.com/story/show/42588647
+42588605,Users should be able to find copyright information.,base feature,3,"Feb 13, 2013","Feb 19, 2013",feature,1,unstarted,"Jan 15, 2013",,,Rachel Higley,,,http://www.pivotaltracker.com/story/show/42588605
+43013039,Minified Scripts,mobile feature,3,"Feb 13, 2013","Feb 19, 2013",feature,1,unstarted,"Jan 22, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/43013039
+42598601,Weekly Self Audit,"",3,"Feb 13, 2013","Feb 19, 2013",feature,1,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"Review your code, designs, and other materials created to ensure they are commented, well formatted, and developed to a a standard that represents your personal best work. 
+
+You will be handing off your project to other developers for review and you should be confident that your work will stand up to their scrutiny in addition to the rubric.",http://www.pivotaltracker.com/story/show/42598601
+42594057,[4.1] Pivotal Tracker Velocity Review,"",3,"Feb 13, 2013","Feb 19, 2013",release,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42594057
+42595863,Peer Review,iteration,4,"Feb 20, 2013","Feb 26, 2013",feature,2,unstarted,"Jan 15, 2013",,,Christopher Chapman,,"Full Description of the Peer Review Process
+
+https://docs.google.com/document/d/1FvTSXVRmJD_TdatutzI4NfvlgItXy1nQUQCcEALLCY0/edit?usp=sharing",http://www.pivotaltracker.com/story/show/42595863
+43014511,Video Walk through,base feature,4,"Feb 20, 2013","Feb 26, 2013",feature,3,unstarted,"Jan 22, 2013",,,Christopher Chapman,,Create an well edited 2 min. video walk through of your app. Draw upon your skills in previous classes.,http://www.pivotaltracker.com/story/show/43014511
+43014543,Final Bug Stomping,base feature,4,"Feb 20, 2013","Feb 26, 2013",feature,2,unstarted,"Jan 22, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/43014543
+42595905,[4.2] ,"",4,"Feb 20, 2013","Feb 26, 2013",release,,unstarted,"Jan 15, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/42595905
+43018457,milestone,"",,,,release,,unscheduled,"Jan 22, 2013",,,Christopher Chapman,,,http://www.pivotaltracker.com/story/show/43018457
+42588139,Users can create and curate lists of content created by other users.,bonus points,,,,feature,3,unscheduled,"Jan 15, 2013",,,Christopher Chapman,,"This allows users to essentially create groups or playlists of content.
+
+Example: See Dribble Buckets - http://dribbble.com/_chapman/buckets",http://www.pivotaltracker.com/story/show/42588139
+42588155,User should be able to easily filter content based on meta tags,bonus points,,,,feature,2,unscheduled,"Jan 15, 2013",,,Rachel Higley,,,http://www.pivotaltracker.com/story/show/42588155
+42588535,Content is required to be tagged with meta information upon submission.,bonus points,,,,feature,1,unscheduled,"Jan 15, 2013",,,Christopher Chapman,,Comments are an essential part of any content sharing service.,http://www.pivotaltracker.com/story/show/42588535
+43007539,Users can share content to other social networks,bonus points,,,,feature,2,unscheduled,"Jan 22, 2013",,,Rachel Higley,,"Facebook has created some really easy to use tools to help you out. Here is a direct link to them. Enjoy! 
+
+https://developers.facebook.com/docs/plugins/",http://www.pivotaltracker.com/story/show/43007539
+42588503,Advertisers should be able to show their products or services to make money.,bonus points,,,,feature,3,unscheduled,"Jan 15, 2013",,,Rachel Higley,,Google Ad words and other services offer viable revenue streams.,http://www.pivotaltracker.com/story/show/42588503
+43000091,Email Blast to newsletter subscribers.,bonus points,,,,feature,3,unscheduled,"Jan 22, 2013",,,Rachel Higley,,"The ability to reach out to your audience is key. 
+
+Create the ability for an admin user to send a templated email out to your subscribed users.",http://www.pivotaltracker.com/story/show/43000091
+42588725,Users should be able to see related content to what they are currently viewing.,bonus points,,,,feature,3,unscheduled,"Jan 15, 2013",,,Rachel Higley,,This further promotes content discovery.,http://www.pivotaltracker.com/story/show/42588725
+42588685,Users should be able to access recent activity in a data format such as JSON or RSS.,bonus points,,,,feature,2,unscheduled,"Jan 15, 2013",,,Rachel Higley,,,http://www.pivotaltracker.com/story/show/42588685
